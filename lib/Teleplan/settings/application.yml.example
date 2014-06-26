@@ -1,0 +1,8 @@
+amqp_user: guest
+amqp_pass: guest
+amqp_server: localhost
+
+logfile: /var/log/teleplan.log
+telegram_key: /home/telegram/tg.pub
+
+debug: true
